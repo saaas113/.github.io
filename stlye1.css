@@ -5,7 +5,7 @@
 header{
     height: 750px;
     width: 100%;
-    background-image: url(file:///C:/Users/sasas/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/practice1/img1/main_bg.jpg);
+    background-image: url(https://github.com/saaas113/saaas/blob/main/main_bg.jpg?raw=true);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -56,7 +56,7 @@ header{
 
 /*ここからMain*/
 .main-bg{
-    background-image: url(file:///C:/Users/sasas/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/practice1/img1/bg.jpg);
+    background-image: url(https://github.com/saaas113/saaas/blob/main/bg.jpg?raw=true);
     background-size: cover;
 }
 
@@ -97,7 +97,7 @@ header{
     opacity: 0.7;
 }
 .main-middle1{
-    background-image: url(file:///C:/Users/sasas/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/practice1/img1/c02_bg1.png);
+    background-image: url(https://github.com/saaas113/saaas/blob/main/c02_bg1.png?raw=true);
     background-repeat: no-repeat;
     background-position: center top;
     height: 1100px;
@@ -105,12 +105,12 @@ header{
     position: relative;
 }
 .main-middle2{
-    background-image: url(file:///C:/Users/sasas/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/practice1/img1/c02_bg2.png);
+    background-image: url(https://github.com/saaas113/saaas/blob/main/c02_bg2.png?raw=true);
     background-position: center 100px;
     background-repeat: repeat-y;
 }
 .main-middle3{
-    background-image: url(file:///C:/Users/sasas/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/practice1/img1/c02_bg1.png);
+    background-image: url(https://github.com/saaas113/saaas/blob/main/c02_bg1.png?raw=true);
     background-repeat: no-repeat;
     background-position: center top;
     transform: scale(1,-1);
@@ -167,7 +167,7 @@ header{
     position: relative;
 }
 .yellow-bg{
-    background-image: url(file:///C:/Users/sasas/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/practice1/img1/c03_bg.png);
+    background-image: url(https://github.com/saaas113/saaas/blob/main/c03_bg.png?raw=true);
     background-repeat:no-repeat ;
     background-position: center;
     background-color: #FFD800;
@@ -227,7 +227,7 @@ header{
     opacity: 0.7;
 }
 .skin-color-bg{
-    background-image: url(file:///C:/Users/sasas/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/practice1/img1/bg.jpg);
+    background-image: url(https://github.com/saaas113/saaas/blob/main/bg.jpg?raw=true);
     height: 500px;
     position: relative;
 }
