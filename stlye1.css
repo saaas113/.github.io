@@ -176,7 +176,6 @@ header{
 .yellow-bg::before{
     content: "";
     display: inline-block;
-    background: url(https://www.kneipp.jp/lp/yuzu/shared/img/punc1.png) center bottom repeat-x;
     height: 87px;
     width: 100%;
     position: absolute;
